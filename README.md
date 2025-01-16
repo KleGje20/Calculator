@@ -1,5 +1,7 @@
 # Calculator
 
+[![Java CI](https://github.com/KleGje20/Calculator/actions/workflows/ci.yml/badge.svg)](https://github.com/KleGje20/Calculator/actions/workflows/ci.yml)
+
 ## Beschreibung
 Ein einfacher Taschenrechner, der grundlegende mathematische Operationen ausführt:
 - Addition
